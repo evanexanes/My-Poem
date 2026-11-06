@@ -4,3 +4,8 @@ A blank page waits inside the folder,
 a quiet room with nothing said.
 I write a line, I save the moment,
 and Git remembers what I wrote.
+
+If I change my mind tomorrow,
+the old words are never lost:
+every version waits in history,
+a small door back to what I wrote.
