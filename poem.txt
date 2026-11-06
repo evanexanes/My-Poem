@@ -8,4 +8,4 @@ and Git remembers what I wrote.
 If I change my mind tomorrow,
 the old words are never lost:
 every version waits in history,
-a small door back to what I wrote.
+a small door I can walk back through.
