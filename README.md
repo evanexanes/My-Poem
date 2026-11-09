@@ -8,6 +8,10 @@
 ![Course](https://img.shields.io/badge/Course-MOBPROG%20IT--252-555555)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2d4a7c.svg)](LICENSE)
 
+<img src="docs/screenshot.webp" alt="The poem Commit One beside the repository's git log showing its branches and merges" width="860">
+
+<sub>The poem and the branching history it was written to practise.</sub>
+
 </div>
 
 ## About
