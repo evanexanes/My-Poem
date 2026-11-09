@@ -14,6 +14,11 @@
 
 </div>
 
+## What this shows
+- A first Git and GitHub exercise where the history matters more than the poem.
+- It holds a merged pull request (the third stanza) and a branch left unmerged on purpose (the alternate ending).
+- Run `git log --oneline --graph --all` after cloning to see the branches.
+
 ## About
 I made this for MOBPROG (IT-252) while following "1.1: Introduction - Git and GitHub for Poets" by The Coding Train. The poem is in [`poem.txt`](poem.txt). What matters here is the history: commits, branches and a pull request.
 
@@ -36,4 +41,4 @@ git log --oneline --graph --all
 The poem is released under the [MIT License](LICENSE).
 
 ## Author
-**Evan Prens P. Exanes** · [GitHub](https://github.com/evanexanes) · [Portfolio](https://evanexanes.github.io/)
+**Evan Prens P. Exanes** · [GitHub](https://github.com/evanexanes) · [Portfolio](https://evanexanes.github.io/) · [Contact](https://evanexanes.github.io/07-contact.html)
