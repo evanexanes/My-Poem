@@ -1,9 +1,35 @@
+<div align="center">
+
 # My-Poem
 
-My first Git and GitHub repository, made for MOBPROG (IT-252) while following "1.1: Introduction - Git and GitHub for Poets" by The Coding Train.
+**My first Git and GitHub repository: a short poem about version control, kept as a branching exercise.**
+
+![Git](https://img.shields.io/badge/Git-branches%20%C2%B7%20pull%20request-F05032?logo=git&logoColor=white)
+![Course](https://img.shields.io/badge/Course-MOBPROG%20IT--252-555555)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2d4a7c.svg)](LICENSE)
+
+</div>
+
+## About
+I made this for MOBPROG (IT-252) while following "1.1: Introduction - Git and GitHub for Poets" by The Coding Train. The poem is in [`poem.txt`](poem.txt). What matters here is the history: commits, branches and a pull request.
 
 ## Branches
 
-- `main`: the poem as published
-- `third-stanza`: merged through a pull request
-- `alternate-ending`: a different ending, left unmerged
+| Branch | What it holds |
+|---|---|
+| `main` | The poem as published |
+| `third-stanza` | A third stanza, merged through a pull request |
+| `alternate-ending` | A different ending, left unmerged on purpose |
+
+## Try it
+```bash
+git clone https://github.com/evanexanes/My-Poem.git
+cd My-Poem
+git log --oneline --graph --all
+```
+
+## License
+The poem is released under the [MIT License](LICENSE).
+
+## Author
+**Evan Prens P. Exanes** · [GitHub](https://github.com/evanexanes) · [Portfolio](https://evanexanes.github.io/)
